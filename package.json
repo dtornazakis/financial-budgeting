@@ -1,0 +1,14 @@
+{
+  "name": "financial-budgeting",
+  "version": "1.0.0",
+  "description": "A financial structure with classes, objects and libraries to represent a budgeting management system",
+  "main": "rollup.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitris Tornazakis",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup-plugin-copy": "^3.3.0"
+  }
+}
